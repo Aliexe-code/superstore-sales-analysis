@@ -1,0 +1,19 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data - keep CSVs but ignore large exports
+# data/superstore.csv is committed (small, ~2MB) per checklist item 6
+# If data grows >50MB, move to Git LFS or ignore
+
+# Secrets / local
+.env
+*.key
