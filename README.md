@@ -1,6 +1,6 @@
 # Superstore Sales Analysis
 
-A retail sales analysis of the public [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) on Kaggle. The project asks **exactly three locked business questions** (Q8: scope locked at 3 to keep Eman focused) about revenue, profit, and customer behavior, then answers each with appropriate visualizations and statistics.
+A retail sales analysis of the public [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) on Kaggle. The project asks three focused business questions about revenue, profit, and customer behavior, then answers each with appropriate visualizations and statistics.
 
 **Author:** Eman Mahmoud Ahmed Ali Omar
 **Mentor:** Ali Mohamed — Gulf Plastics Industries (GPI)

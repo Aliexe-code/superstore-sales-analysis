@@ -1,12 +1,12 @@
 # Task Board — Superstore Sales Analysis (Days 16-18)
 
-> For Ali (mentor) to create as GitHub Issues + Milestones. For Eman: this is your day-by-day checklist. Close an issue only when its **Definition of Done** is met and pushed to GitHub.
+> Day-by-day checklist with Definition of Done for each task. Follow in order — close a task only when its checklist is met and pushed to GitHub.
 
-## How to Create on GitHub (Ali, 5 minutes)
+## How to Create on GitHub (5 minutes)
 
 1. On https://github.com/emanomar2006git/superstore-sales-analysis → Issues → Milestones → New Milestone: `Day 16 — Clean + EDA + 2 Qs`, `Day 17 — Finish + Findings + README`, `Day 18 — Polish + Walkthrough`
-2. For each Issue below: Issues → New Issue → paste Title + Body → assign to `emanomar2006git` → add to Milestone → Create
-3. Eman moves cards: To Do → In Progress → Done by closing the Issue with a commit message like `Closes #3`
+2. For each Issue below: Issues → New Issue → paste Title + Body → assign to assignee → add to Milestone → Create
+3. Move cards: To Do → In Progress → Done by closing the Issue with a commit message like `Closes #3`
 
 ---
 
